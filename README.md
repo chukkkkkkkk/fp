@@ -1,3 +1,3 @@
 # demo
 
-someone likes pinapples
+someone likes pinapples.
